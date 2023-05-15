@@ -1,8 +1,7 @@
-# <img src="https://cloud.synrlabs.co/apps/files_sharing/publicpreview/ZfYrZnHyHNwnPTD?file=/&fileId=376&x=3840&y=1600&a=true" alt="synrlabs Logo" width="200">
+<p style="text-align: center; margin-bottom: 3rem; margin-top: 3rem"><img src="https://cloud.synrlabs.co/apps/files_sharing/publicpreview/ZfYrZnHyHNwnPTD?file=/&fileId=376&x=3840&y=1600&a=true" alt="synrlabs Logo" width="200"></p>
 
 Welcome to synrlabs, where we strive to create modern and innovative software solutions that exceed expectations. Our team of talented professionals is dedicated to delivering high-quality products that combine beautiful design, seamless functionality, cutting-edge technology, and utmost customer satisfaction.
 
----
 
 ## 💜 About Us
 
