@@ -1,7 +1,6 @@
-# <img src="https://example.com/synrlabs-logo.png" alt="synrlabs Logo" width="200"> synrlabs
+# <img src="https://cloud.synrlabs.co/apps/files_sharing/publicpreview/ZfYrZnHyHNwnPTD?file=/&fileId=376&x=3840&y=1600&a=true" alt="synrlabs Logo" width="200">
 
 Welcome to synrlabs, where we strive to create modern and innovative software solutions that exceed expectations. Our team of talented professionals is dedicated to delivering high-quality products that combine beautiful design, seamless functionality, cutting-edge technology, and utmost customer satisfaction.
-
 
 ---
 
